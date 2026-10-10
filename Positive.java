@@ -11,7 +11,7 @@ public class Positive{
             System.out.println("The given number is Positive");
         }else if(input<0){
             System.out.println("The given number is Negative");
-        }else{
+        }else{ 
             System.out.println("The given number is Zero");
         }
     }
